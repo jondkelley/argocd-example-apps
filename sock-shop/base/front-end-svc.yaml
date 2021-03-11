@@ -5,6 +5,7 @@ metadata:
   name: front-end
   labels:
     name: front-end
+    namex: front-endx
 spec:
   type: LoadBalancer
   ports:
